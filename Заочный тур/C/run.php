@@ -149,7 +149,7 @@ class Filesystem
      * @param string $input
      * @param string $output
      */
-    public function __construct($input = './input.txt', $output = './output.txt')
+    public function __construct($input = 'input.txt', $output = 'output.txt')
     {
         $this->input = $input;
         $this->output = $output;

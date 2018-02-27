@@ -5,8 +5,8 @@ new Calendar();
 
 class Calendar
 {
-    const INPUT_FILE = './input.txt';
-    const OUTPUT_FILE = './output.txt';
+    const INPUT_FILE = 'input.txt';
+    const OUTPUT_FILE = 'output.txt';
 
     const BLANK_DAYS = '__'; // Символы для заполнения пустых ячеек
     const DAYS_IN_WEEK = 7; // Количество дней в неделе

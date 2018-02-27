@@ -5,8 +5,8 @@ new Ip();
 Class Ip
 {
 
-    const INPUT_FILE = './input.txt';
-    const OUTPUT_FILE = './output.txt';
+    const INPUT_FILE = 'input.txt';
+    const OUTPUT_FILE = 'output.txt';
 
     /**
      * Ip constructor.
